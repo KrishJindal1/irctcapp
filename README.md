@@ -15,7 +15,7 @@ It’s perfect for learning **Core Java**, practicing **OOP principles**, and un
 
 ---
 
-<details>
+
 <summary>🧩 <b>Features</b></summary>
 
 ### 👤 User Management
@@ -37,11 +37,11 @@ It’s perfect for learning **Core Java**, practicing **OOP principles**, and un
 - Simple, text-based navigation  
 - Intuitive and beginner-friendly terminal experience  
 
-</details>
+
 
 ---
 
-<details>
+
 <summary>⚙️ <b>Tech Stack & Concepts</b></summary>
 
 - 🟨 **Language:** Java (Core)
@@ -51,13 +51,12 @@ It’s perfect for learning **Core Java**, practicing **OOP principles**, and un
   - `Scanner` for user input  
   - Simple Terminal / CLI interface  
 
-</details>
+
 
 ---
 
 ## 🚀 How to Run
 
-<details>
 <summary><b>Step-by-step (expand to view)</b></summary>
 
 <br>
@@ -80,7 +79,7 @@ It’s perfect for learning **Core Java**, practicing **OOP principles**, and un
 
 ## 📸 Example Output
 
-<details>
+
 <summary><b>Click to View Example Terminal Output</b></summary>
 
 <br>
@@ -119,23 +118,23 @@ Logout
 bash
 Copy code
 
-</details>
+
 
 ---
 
-<details> <summary>🎯 <b>Learning Objectives</b></summary>
+ <summary>🎯 <b>Learning Objectives</b></summary>
 
-Understand the structure of a CLI-based Java application
+1 )Understand the structure of a CLI-based Java application
 
-Learn how to manage users and sessions in-memory
+2) Learn how to manage users and sessions in-memory
 
-Practice designing modular and reusable Java code
+3) Practice designing modular and reusable Java code
 
-Get hands-on with file and data handling
+4) Get hands-on with file and data handling
 
-</details>
 
-<details> <summary>💡 <b>Future Improvements</b></summary>
+
+ <summary>💡 <b>Future Improvements</b></summary>
 
 💾 Integrate persistent database storage (MySQL / MongoDB)
 
@@ -147,7 +146,7 @@ Get hands-on with file and data handling
 
 👥 Add admin panel for train management
 
-</details>
+
 🧭 Quick Commands
 # Clone repo
 git clone https://github.com/<your-username>/terminal-irctc-java.git
